@@ -1,5 +1,5 @@
 # amazon_clone
 HTML
 CSS
-#link
+# link
  https://codewidinterest.github.io/amazon_clone/
